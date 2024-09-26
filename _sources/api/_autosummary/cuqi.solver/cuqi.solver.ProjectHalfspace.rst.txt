@@ -1,0 +1,6 @@
+ProjectHalfspace
+================
+
+.. currentmodule:: cuqi.solver
+
+.. autofunction:: ProjectHalfspace

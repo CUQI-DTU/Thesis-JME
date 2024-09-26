@@ -1,0 +1,6 @@
+cuqi.implicitprior.RegularizedUniform.\_\_init\_\_
+==================================================
+
+.. currentmodule:: cuqi.implicitprior
+
+.. automethod:: RegularizedUniform.__init__

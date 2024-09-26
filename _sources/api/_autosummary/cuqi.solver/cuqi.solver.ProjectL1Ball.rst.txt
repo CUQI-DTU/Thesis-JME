@@ -1,0 +1,6 @@
+ProjectL1Ball
+=============
+
+.. currentmodule:: cuqi.solver
+
+.. autofunction:: ProjectL1Ball

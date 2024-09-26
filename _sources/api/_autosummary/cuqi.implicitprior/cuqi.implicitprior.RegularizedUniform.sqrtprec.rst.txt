@@ -1,0 +1,6 @@
+cuqi.implicitprior.RegularizedUniform.sqrtprec
+==============================================
+
+.. currentmodule:: cuqi.implicitprior
+
+.. autoproperty:: RegularizedUniform.sqrtprec

@@ -1,0 +1,6 @@
+cuqi.implicitprior.RegularizedUniform.to\_likelihood
+====================================================
+
+.. currentmodule:: cuqi.implicitprior
+
+.. automethod:: RegularizedUniform.to_likelihood

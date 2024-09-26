@@ -1,0 +1,6 @@
+cuqi.implicitprior.RegularizedUniform.FD\_epsilon
+=================================================
+
+.. currentmodule:: cuqi.implicitprior
+
+.. autoproperty:: RegularizedUniform.FD_epsilon

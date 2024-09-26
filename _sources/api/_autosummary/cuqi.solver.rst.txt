@@ -1,0 +1,61 @@
+solver
+======
+
+Module path: cuqi.solver
+
+.. currentmodule:: cuqi
+
+.. automodule:: cuqi.solver
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+      :toctree: cuqi.solver
+      :nosignatures:
+      :recursive:
+
+   
+      ProjectBox
+      ProjectHalfspace
+      ProjectL1Ball
+      ProjectL2Ball
+      ProjectNonnegative
+      ProjectSimplex
+      ProximalL1
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+    :toctree: cuqi.solver
+    :nosignatures:
+    :recursive:
+
+   
+      ADMM
+      CGLS
+      FISTA
+      LM
+      LS
+      L_BFGS_B
+      PDHG
+      maximize
+      minimize
+   
+   
+
+   
+   
+   
+
+
+

@@ -1,0 +1,6 @@
+cuqi.implicitprior.RegularizedUniform.disable\_FD
+=================================================
+
+.. currentmodule:: cuqi.implicitprior
+
+.. automethod:: RegularizedUniform.disable_FD

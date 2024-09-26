@@ -1,0 +1,6 @@
+cuqi.implicitprior.RegularizedUniform.constraint\_options
+=========================================================
+
+.. currentmodule:: cuqi.implicitprior
+
+.. automethod:: RegularizedUniform.constraint_options

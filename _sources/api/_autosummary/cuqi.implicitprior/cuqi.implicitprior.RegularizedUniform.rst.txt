@@ -1,0 +1,58 @@
+RegularizedUniform
+==================
+
+.. currentmodule:: cuqi.implicitprior
+
+.. autoclass:: RegularizedUniform
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree: .
+   
+      ~RegularizedUniform.__init__
+      ~RegularizedUniform.constraint_options
+      ~RegularizedUniform.disable_FD
+      ~RegularizedUniform.enable_FD
+      ~RegularizedUniform.get_conditioning_variables
+      ~RegularizedUniform.get_mutable_variables
+      ~RegularizedUniform.get_parameter_names
+      ~RegularizedUniform.gradient
+      ~RegularizedUniform.logd
+      ~RegularizedUniform.logpdf
+      ~RegularizedUniform.pdf
+      ~RegularizedUniform.regularization_options
+      ~RegularizedUniform.sample
+      ~RegularizedUniform.to_likelihood
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+      :toctree: .
+   
+      ~RegularizedUniform.FD_enabled
+      ~RegularizedUniform.FD_epsilon
+      ~RegularizedUniform.cov
+      ~RegularizedUniform.dim
+      ~RegularizedUniform.gaussian
+      ~RegularizedUniform.geometry
+      ~RegularizedUniform.is_cond
+      ~RegularizedUniform.mean
+      ~RegularizedUniform.name
+      ~RegularizedUniform.prec
+      ~RegularizedUniform.preset
+      ~RegularizedUniform.proximal
+      ~RegularizedUniform.sqrtcov
+      ~RegularizedUniform.sqrtprec
+      ~RegularizedUniform.strength
+      ~RegularizedUniform.transformation
+   
+   

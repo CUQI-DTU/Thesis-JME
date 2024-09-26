@@ -1,0 +1,6 @@
+cuqi.implicitprior.RegularizedUniform.mean
+==========================================
+
+.. currentmodule:: cuqi.implicitprior
+
+.. autoproperty:: RegularizedUniform.mean

@@ -1,0 +1,6 @@
+cuqi.implicitprior.RegularizedUniform.name
+==========================================
+
+.. currentmodule:: cuqi.implicitprior
+
+.. autoproperty:: RegularizedUniform.name

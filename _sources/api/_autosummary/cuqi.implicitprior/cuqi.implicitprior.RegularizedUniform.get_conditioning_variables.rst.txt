@@ -1,0 +1,6 @@
+cuqi.implicitprior.RegularizedUniform.get\_conditioning\_variables
+==================================================================
+
+.. currentmodule:: cuqi.implicitprior
+
+.. automethod:: RegularizedUniform.get_conditioning_variables

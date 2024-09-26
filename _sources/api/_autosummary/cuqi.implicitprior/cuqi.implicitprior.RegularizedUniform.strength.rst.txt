@@ -1,0 +1,6 @@
+cuqi.implicitprior.RegularizedUniform.strength
+==============================================
+
+.. currentmodule:: cuqi.implicitprior
+
+.. autoproperty:: RegularizedUniform.strength

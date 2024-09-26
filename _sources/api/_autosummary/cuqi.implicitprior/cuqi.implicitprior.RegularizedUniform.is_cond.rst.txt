@@ -1,0 +1,6 @@
+cuqi.implicitprior.RegularizedUniform.is\_cond
+==============================================
+
+.. currentmodule:: cuqi.implicitprior
+
+.. autoproperty:: RegularizedUniform.is_cond

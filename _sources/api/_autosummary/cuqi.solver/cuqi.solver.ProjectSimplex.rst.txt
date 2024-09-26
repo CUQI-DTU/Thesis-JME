@@ -1,0 +1,6 @@
+ProjectSimplex
+==============
+
+.. currentmodule:: cuqi.solver
+
+.. autofunction:: ProjectSimplex

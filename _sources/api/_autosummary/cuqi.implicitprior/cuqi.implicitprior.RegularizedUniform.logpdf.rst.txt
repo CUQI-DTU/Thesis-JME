@@ -1,0 +1,6 @@
+cuqi.implicitprior.RegularizedUniform.logpdf
+============================================
+
+.. currentmodule:: cuqi.implicitprior
+
+.. automethod:: RegularizedUniform.logpdf

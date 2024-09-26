@@ -1,0 +1,6 @@
+cuqi.implicitprior.RegularizedUniform.sample
+============================================
+
+.. currentmodule:: cuqi.implicitprior
+
+.. automethod:: RegularizedUniform.sample

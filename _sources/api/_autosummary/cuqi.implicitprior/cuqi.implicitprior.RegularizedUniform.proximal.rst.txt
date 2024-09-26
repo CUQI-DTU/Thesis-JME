@@ -1,0 +1,6 @@
+cuqi.implicitprior.RegularizedUniform.proximal
+==============================================
+
+.. currentmodule:: cuqi.implicitprior
+
+.. autoproperty:: RegularizedUniform.proximal
